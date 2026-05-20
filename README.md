@@ -20,3 +20,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## Day 1 Progress
 - Learned Git and GitHub
 - Learned how to push code to GitHub
+
+## Day 2
+- [Assign Cookies](https://leetcode.com/submissions/detail/2007010462/)
+- [lemonade change](https://leetcode.com/submissions/detail/2007062581/)
+- [jump game](https://leetcode.com/submissions/detail/2007206076/)
