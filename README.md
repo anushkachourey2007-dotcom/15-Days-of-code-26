@@ -25,3 +25,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - [Assign Cookies](https://leetcode.com/submissions/detail/2007010462/)
 - [lemonade change](https://leetcode.com/submissions/detail/2007062581/)
 - [jump game](https://leetcode.com/submissions/detail/2007206076/)
+
+## Day 3
+- [Subarray Sum Equals K](https://leetcode.com/submissions/detail/2007946987/)
+- [Pow(x, n)](https://leetcode.com/submissions/detail/2007981831/)
