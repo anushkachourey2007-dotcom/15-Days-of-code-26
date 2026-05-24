@@ -30,4 +30,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - [Subarray Sum Equals K](https://leetcode.com/submissions/detail/2007946987/)
 - [Pow(x, n)](https://leetcode.com/submissions/detail/2007981831/)
 
-
+## Day 4
+-[Find first and last position of element in a sorted array](https://leetcode.com/submissions/detail/2008868274/)
+-[Search insert position](https://leetcode.com/submissions/detail/2008831799/)
