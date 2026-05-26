@@ -41,3 +41,12 @@ tried solving the spiral matrix and searching in rotated sorted array
 -[Rotate image](https://leetcode.com/submissions/detail/2010523573/)
 - [majority element II](https://leetcode.com/submissions/detail/2010585211/)
 
+## Day 7
+-[password strength](https://leetcode.com/submissions/detail/2012368799/)
+-[limit occurences in sorted array] (eetcode.com/submissions/detail/2012700986/)
+
+##Day 8
+-[largest odd number in string](https://leetcode.com/submissions/detail/2013307676/)
+-[reverse words in a string](https://leetcode.com/submissions/detail/2013379545/)
+-[single element in sorted array](https://leetcode.com/submissions/detail/2013802410/)
+-[find peak element](eetcode.com/submissions/detail/2013816834/)
