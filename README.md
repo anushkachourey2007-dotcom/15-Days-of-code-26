@@ -33,3 +33,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## Day 4
 -[Find first and last position of element in a sorted array](https://leetcode.com/submissions/detail/2008868274/)
 -[Search insert position](https://leetcode.com/submissions/detail/2008831799/)
+
+## Day 5
+tried solving the spiral matrix and searching in rotated sorted array
+
+## Day 6
+-[Rotate image](https://leetcode.com/submissions/detail/2010523573/)
+- [majority element II](https://leetcode.com/submissions/detail/2010585211/)
+
