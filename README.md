@@ -23,15 +23,20 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 ## Day 2
 - [Assign Cookies](https://leetcode.com/submissions/detail/2007010462/)
+
 - [lemonade change](https://leetcode.com/submissions/detail/2007062581/)
+
 - [jump game](https://leetcode.com/submissions/detail/2007206076/)
+
 
 ## Day 3
 - [Subarray Sum Equals K](https://leetcode.com/submissions/detail/2007946987/)
+
 - [Pow(x, n)](https://leetcode.com/submissions/detail/2007981831/)
 
 ## Day 4
 -[Find first and last position of element in a sorted array](https://leetcode.com/submissions/detail/2008868274/)
+
 -[Search insert position](https://leetcode.com/submissions/detail/2008831799/)
 
 ## Day 5
@@ -39,10 +44,12 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 ## Day 6
 -[Rotate image](https://leetcode.com/submissions/detail/2010523573/)
-- [majority element II](https://leetcode.com/submissions/detail/2010585211/)
+
+-[majority element II](https://leetcode.com/submissions/detail/2010585211/)
 
 ## Day 7
 -[password strength](https://leetcode.com/submissions/detail/2012368799/)
+
 -[limit occurences in sorted array](leetcode.com/submissions/detail/2012700986/)
 
 ## Day 8
@@ -56,9 +63,9 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 
 ## Day 9
--[find minimum in rotated sorted array]
--[pascal's triangle]
--[longest common prefix]
--[valid anagram]
+-[find minimum in rotated sorted array](https://leetcode.com/submissions/detail/2014280016/)
+-[pascal's triangle](https://leetcode.com/submissions/detail/2014306729/)
+-[longest common prefix](https://leetcode.com/submissions/detail/2014601421/)
+-[valid anagram](https://leetcode.com/submissions/detail/2014709256/)
 -[tried solving isomorph strings]
 -[tried solving 3 sum problem but code ran out of time]
