@@ -50,3 +50,11 @@ tried solving the spiral matrix and searching in rotated sorted array
 -[reverse words in a string](https://leetcode.com/submissions/detail/2013379545/)
 -[single element in sorted array](https://leetcode.com/submissions/detail/2013802410/)
 -[find peak element](eetcode.com/submissions/detail/2013816834/)
+
+##Day 9
+-[find minimum in rotated sorted array]
+-[pascal's triangle]
+-[longest common prefix]
+-[valid anagram]
+- tried solving isomorph strings
+-tried solving 3 sum problem but code ran out of time
