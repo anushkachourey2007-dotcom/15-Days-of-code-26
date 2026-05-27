@@ -47,9 +47,13 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 ## Day 8
 -[largest odd number in string](https://leetcode.com/submissions/detail/2013307676/)
+
 -[reverse words in a string](https://leetcode.com/submissions/detail/2013379545/)
+
 -[single element in sorted array](https://leetcode.com/submissions/detail/2013802410/)
+
 -[find peak element](leetcode.com/submissions/detail/2013816834/)
+
 
 ## Day 9
 -[find minimum in rotated sorted array]
