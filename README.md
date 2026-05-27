@@ -64,8 +64,13 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 ## Day 9
 -[find minimum in rotated sorted array](https://leetcode.com/submissions/detail/2014280016/)
+
 -[pascal's triangle](https://leetcode.com/submissions/detail/2014306729/)
+
 -[longest common prefix](https://leetcode.com/submissions/detail/2014601421/)
+
 -[valid anagram](https://leetcode.com/submissions/detail/2014709256/)
+
 -[tried solving isomorph strings]
+
 -[tried solving 3 sum problem but code ran out of time]
