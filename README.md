@@ -74,3 +74,17 @@ tried solving the spiral matrix and searching in rotated sorted array
 -[tried solving isomorph strings]
 
 -[tried solving 3 sum problem but code ran out of time]
+
+
+## Day 10
+-[Merge Sorted array](https://leetcode.com/submissions/detail/2015200313/)
+
+-[delete node from linked list](https://leetcode.com/submissions/detail/2015256798/)
+
+-[middle of linked list](https://leetcode.com/submissions/detail/2015270918/)
+
+-[Rotate string](https://leetcode.com/submissions/detail/2015560918/)
+
+-[Sort character by frequency](https://leetcode.com/submissions/detail/2015560918/)
+
+
