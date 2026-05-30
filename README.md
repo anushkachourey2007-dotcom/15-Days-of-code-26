@@ -95,3 +95,21 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 -[koko eating bananas] first tried the problem myself but for some testcase the approach exceeded the time limit so learned the binary search approach and solved the problem (https://leetcode.com/submissions/detail/2016357363/)
 
+## Day 12
+
+-[Remove Element](https://leetcode.com/submissions/detail/2017474767/)
+
+-[Length of Last Word](https://leetcode.com/submissions/detail/2017446601/)
+
+-[Longest Palindromic Substring](https://leetcode.com/submissions/detail/2017337358/)
+
+-[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/2017314714/)
+
+-[Kth Missing Positive Number](https://leetcode.com/submissions/detail/2017283848/)
+
+-[Capacity To Ship Packages Within D Days](https://leetcode.com/submissions/detail/2017229630/)
+
+-[Find the Smallest Divisor Given a Threshold](https://leetcode.com/submissions/detail/2017155023/)
+
+-[Minimum Number of Days to Make m Bouquets](https://leetcode.com/submissions/detail/2017106939/)
+
