@@ -88,3 +88,10 @@ tried solving the spiral matrix and searching in rotated sorted array
 -[Sort character by frequency](https://leetcode.com/submissions/detail/2015560918/)
 
 
+## Day 11
+-[search in rotated sorted array I](https://leetcode.com/submissions/detail/2016162019/)
+
+-[search in rotated sorted array II](https://leetcode.com/submissions/detail/2016165571/)
+
+-[koko eating bananas] first tried the problem myself but for some testcase the approach exceeded the time limit so learned the binary search approach and solved the problem (https://leetcode.com/submissions/detail/2016357363/)
+
