@@ -113,3 +113,17 @@ tried solving the spiral matrix and searching in rotated sorted array
 
 -[Minimum Number of Days to Make m Bouquets](https://leetcode.com/submissions/detail/2017106939/)
 
+
+## Day 13
+
+-[Find the Index of the First Occurrence in a String](https://leetcode.com/submissions/detail/2017968169/)
+
+-[Plus One](https://leetcode.com/submissions/detail/2017993280/)
+
+-[Concatenation of Array](https://leetcode.com/submissions/detail/2018017439/)
+
+-[Destroying Asteroids](https://leetcode.com/submissions/detail/2018337634/) problem of the day
+
+-[Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/2018346536/)
+
+-[Minimum Element After Replacement With Digit Sum](https://leetcode.com/submissions/detail/2018361406/)
