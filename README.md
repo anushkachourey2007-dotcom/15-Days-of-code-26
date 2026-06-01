@@ -127,3 +127,12 @@ tried solving the spiral matrix and searching in rotated sorted array
 -[Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/2018346536/)
 
 -[Minimum Element After Replacement With Digit Sum](https://leetcode.com/submissions/detail/2018361406/)
+
+## Day 14
+-[find missing element](https://leetcode.com/submissions/detail/2019394696/)
+
+-[contains duplicate](https://leetcode.com/submissions/detail/2019374013/)
+
+-[minimum cost of buying candies](https://leetcode.com/submissions/detail/2019365439/)
+
+-tried solving problem 219
