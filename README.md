@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # 👋 Welcome to Vision CSE  
 
 This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
@@ -138,3 +144,20 @@ tried solving the spiral matrix and searching in rotated sorted array
 ## Day 15
 
 -tried solving problem 219
+
+
+PART 2
+
+## Day 1
+https://leetcode.com/submissions/detail/2033668642/
+
+https://leetcode.com/submissions/detail/2033686760/
+
+https://leetcode.com/submissions/detail/2033897532/
+
+https://leetcode.com/submissions/detail/2033907945/
+
+https://leetcode.com/submissions/detail/2033970635/
+
+https://leetcode.com/submissions/detail/2034156444/
+
