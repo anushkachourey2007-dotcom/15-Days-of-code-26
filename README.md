@@ -161,3 +161,18 @@ https://leetcode.com/submissions/detail/2033970635/
 
 https://leetcode.com/submissions/detail/2034156444/
 
+## Day 2
+https://leetcode.com/submissions/detail/2035478536/
+
+https://leetcode.com/submissions/detail/2035431517/
+
+https://leetcode.com/submissions/detail/2035230086/
+
+https://leetcode.com/submissions/detail/2035175322/
+
+https://leetcode.com/submissions/detail/2034840312/
+
+https://leetcode.com/submissions/detail/2034818934/
+
+
+
