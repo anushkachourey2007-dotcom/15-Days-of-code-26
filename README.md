@@ -174,5 +174,83 @@ https://leetcode.com/submissions/detail/2034840312/
 
 https://leetcode.com/submissions/detail/2034818934/
 
+## Day 3
+https://leetcode.com/problems/palindromic-substrings/submissions/
+
+https://leetcode.com/problems/process-string-with-special-operations-ii/description/  tried solving this problem but memory limit exceeded.
+
+## Day 4
+https://leetcode.com/problems/odd-even-linked-list/submissions/
+
+https://leetcode.com/problems/add-two-numbers/submissions/
+
+https://leetcode.com/problems/top-k-frequent-elements/submissions/
+
+https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/
+
+https://leetcode.com/problems/largest-3-same-digit-number-in-string/submissions/
+
+## Day 5
+
+https://leetcode.com/problems/find-the-highest-altitude/submissions/
+
+## Day 6
+
+https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/
+
+https://leetcode.com/problems/valid-parenthesis-string/submissions/
+
+## Day 7
+
+https://leetcode.com/problems/maximum-ice-cream-bars/submissions/
+
+## Day 8
+
+https://leetcode.com/problems/maximum-number-of-balloons/submissions/
+
+https://leetcode.com/problems/valid-parentheses/submissions/
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
+
+## Day 9
+
+https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/
+
+https://leetcode.com/problems/number-of-common-factors/submissions/
+
+https://leetcode.com/problems/find-the-maximum-achievable-number/submissions/
+
+https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/
+
+https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/submissions/
+
+https://leetcode.com/problems/smallest-even-multiple/submissions/
+
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/
+
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/
+
+## Day 10
+
+https://leetcode.com/problems/add-digits/submissions/
+
+## Day 11
+
+https://leetcode.com/problems/happy-number/submissions/
+
+https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+
+https://leetcode.com/problems/unique-morse-code-words/submissions/
+
+https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/
+
+## Day 12
+
+https://leetcode.com/problems/search-a-2d-matrix/submissions/
+
+https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
+
+https://leetcode.com/problems/sort-list/submissions/
+
 
 
