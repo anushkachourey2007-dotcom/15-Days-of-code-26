@@ -252,5 +252,18 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
 
 https://leetcode.com/problems/sort-list/submissions/
 
+## Day 13
 
+ learned bitwise operators
+
+ ## Day 14 
+
+https://leetcode.com/problems/power-of-two/submissions/
+
+## Day 15
+
+https://leetcode.com/problems/roman-to-integer/submissions/
+
+
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/submissions/
 
